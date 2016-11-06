@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CareBath</string>
+    <string name="app_register_etName">Nombre</string>
+    <string name="app_register_etUsername">Nombre de usuario</string>
+    <string name="app_register_etPassword">Contraseña</string>
+    <string name="app_register_etAge">Edad</string>
+    <string name="app_register_bRegister">Registrar</string>
+    <string name="app_login_bLogin">Entrar</string>
+    <string name="app_login_tvRegisterHere">Registrarse</string>
+
+</resources>
